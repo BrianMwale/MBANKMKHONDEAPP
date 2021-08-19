@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MY BANK MKHONDE APP</string>
+
+    <string name="textView9">BANK MKHONDE APP</string>
+    <string name="ourGroupT">our group</string>
+    <string name="schedulesT">schedules</string>
+    <string name="mkhondeTitle">BANK MKHONDE APP</string>
+    <string name="attendancesT">attendance</string>
+    <string name="loansT">loans</string>
+    <string name="depositsT">deposits</string>
+    <string name="incomesT">incomes</string>
+    <string name="addMembersT">add group members</string>
+    <string name="nameText">FullName</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="title_activity_schedules_p">SchedulesP</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="groupActivities">Activity Name</string>
+    <string name="activityDate">Date</string>
+    <string name="meetingDate">Date</string>
+    <string name="memberAddedDate">Date</string>
+    <string name="viewLoansButton">VIEW LOANS</string>
+    <string name="addLoanToMemberButton">ADD LOAN TO MEMBER</string>
+    <string name="personNameLoan">Member FullName</string>
+    <string name="loanAmount">Amount</string>
+    <string name="loanAddedDate">Date</string>
+    <string name="loanInterest">Set loan interest</string>
+    <string name="outStandingLoansButton"> OUTSTANDING LOANS</string>
+    <string name="loanRepaymentButton">LOAN REPAYMENT</string>
+    <string name="personNameCheckOutstandingLoan">Enter member name</string>
+    <string name="personNameLoanRepayment">Enter member name</string>
+    <string name="loanRepaymentAmount">Enter amount</string>
+    <string name="loanRepaymentDate">Date</string>
+    <string name="personNameDeposits">Member Name</string>
+    <string name="depositAmount">Amount</string>
+    <string name="depositDate">Date</string>
+    <string name="personNameTotalIncome">Member FullName</string>
+    <string name="searchBar1">search</string>
+
+
+</resources>
+
